@@ -55,14 +55,27 @@ npm run dev ------> comando para activar vue
 
 ## Despliegue de Reto 📦
 
-**Pagina de Inicio de Sesion:** 
+**Como Inicio del proyecto aprovechamos la autenticacion que nos da laravel al comenzar un proyecto:** 
 
-![Image description](https://github.com/Incog89/ProyectoNominas/blob/main/ImagenesDescripcion/InicioSesion.png?raw=true)
+![Image description](https://github.com/Incog89/RetoPai/blob/main/RetoPai/imgReadme/Welcome.png)
 
-**Pagina Inicial despues del Inicio de sesion como administrador:**
+**Dashbord una vez que estas autenticado, como se puede notar las 2 primeras pruebas de creacion se hicieron sin la API de stripe y las 2 ultimas pruebas es con Stripe implementado**
 
-![Image description](https://github.com/Incog89/ProyectoNominas/blob/main/ImagenesDescripcion/ImagenHomeAdmin.png?raw=true)
+![Image description](https://github.com/Incog89/RetoPai/blob/main/RetoPai/imgReadme/AdminUsuarios.png)
 
-**Pagina Inicial despues del Inicio de sesion como administrador de plantillas usuario:**
+**Formulario de Creacion de Clientes**
 
-![Image description](https://github.com/Incog89/ProyectoNominas/blob/main/ImagenesDescripcion/ImagenHomeUsuarios.png?raw=true)
+![Image description](https://github.com/Incog89/RetoPai/blob/main/RetoPai/imgReadme/CreacionClientes.png)
+
+**Pagina de Inicio para Creacion de Pago**
+
+![Image description](https://github.com/Incog89/RetoPai/blob/main/RetoPai/imgReadme/PagoUnico.png)
+
+**Implementacion de cobro con Stripe, asi como prueba de errores en campos**
+
+![Image description](https://github.com/Incog89/RetoPai/blob/main/RetoPai/imgReadme/PruebaErrores.png)
+
+**Prueba de Compras y Pagos exitosos**
+
+![Image description](https://github.com/Incog89/RetoPai/blob/main/RetoPai/imgReadme/CompraExitosa.png)
+![Image description](https://github.com/Incog89/RetoPai/blob/main/RetoPai/imgReadme/PagosExitosos.png)
